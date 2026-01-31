@@ -1,0 +1,35 @@
+{
+  "jd_text": "Senior Software Engineer - Full Stack Development\n\nJob Description:\nWe are looking for a Senior Software Engineer with 5+ years of experience in full-stack development. You will lead technical initiatives, mentor junior developers, and design scalable systems.\n\nRequired Skills:\n- Python or Java (backend)\n- React or Vue.js (frontend)\n- PostgreSQL or MySQL (databases)\n- Docker and Kubernetes\n- System design and architecture\n- AWS or Azure cloud platforms\n- Git version control\n\nResponsibilities:\n- Design and develop scalable web applications\n- Lead code reviews and technical discussions\n- Mentor junior engineers\n- Collaborate with product and design teams\n- Optimize database queries and system performance\n- Deploy and maintain applications on cloud platforms\n\nBenefits:\n- Competitive salary (150k-200k)\n- Health insurance\n- Remote work flexibility\n- Professional development budget",
+  "resumes": [
+    {
+      "filename": "good_candidate1.pdf",
+      "text": "John Smith | Senior Software Engineer\n\nSummary:\n7 years of full-stack development experience. Expert in Python, React, and AWS. Led 3 product launches. Strong system design background.\n\nSkills:\n- Python, Java, JavaScript\n- React, Vue.js, Node.js\n- PostgreSQL, MySQL, MongoDB\n- Docker, Kubernetes\n- AWS (EC2, RDS, Lambda, S3)\n- System Architecture and Design\n- Git, CI/CD pipelines\n\nExperience:\nSenior Software Engineer at TechCorp (2020-Present)\n- Designed and deployed microservices architecture serving 1M+ users\n- Led team of 4 engineers on core platform\n- Optimized database queries, reducing latency by 60%\n- Mentored 5 junior developers\n\nSoftware Engineer at StartupXYZ (2018-2020)\n- Built full-stack web application in Python and React\n- Implemented Kubernetes deployment pipeline\n- Conducted technical interviews\n\nEducation:\nBS Computer Science, State University (2016)",
+      "label": 2
+    },
+    {
+      "filename": "good_candidate2.pdf",
+      "text": "Sarah Johnson | Full Stack Engineer\n\nProfile:\n6 years building production systems. Proficient in Java backend and Vue.js frontend. Cloud deployment expert.\n\nCore Skills:\n- Java, Python, JavaScript, TypeScript\n- Vue.js, React frontend frameworks\n- MySQL, PostgreSQL databases\n- Docker containerization\n- Kubernetes orchestration\n- Azure cloud platform\n- System design patterns\n\nCareer:\nSenior Engineer at CloudSystems Inc (2021-Present)\n- Architected microservices handling 500k concurrent users\n- Led migration to Kubernetes, reducing ops costs 40%\n- Mentored 3 engineers, conducted 20+ interviews\n\nMid-level Developer at WebScale (2019-2021)\n- Developed RESTful APIs in Java\n- Built Vue.js dashboard for data analytics\n- Set up CI/CD with Docker and Kubernetes\n\nEducation:\nBS Information Technology (2018)",
+      "label": 2
+    },
+    {
+      "filename": "ok_candidate1.pdf",
+      "text": "Mike Davis | Software Developer\n\nSummary:\n4 years web development. Knows Python and React. Some cloud experience.\n\nSkills:\n- Python, JavaScript\n- React, HTML/CSS\n- MySQL\n- Basic Docker knowledge\n- AWS EC2\n- Git\n\nWork Experience:\nSoftware Developer at WebCo (2021-Present)\n- Developed web pages using React\n- Wrote Python backend services\n- Fixed production bugs\n\nJunior Developer at StartupABC (2020-2021)\n- JavaScript frontend work\n- MySQL database queries\n\nEducation:\nBachelor's in CS (2020)",
+      "label": 1
+    },
+    {
+      "filename": "ok_candidate2.pdf",
+      "text": "Emma Wilson | Developer\n\nOverview:\n5 years in software development. Comfortable with JavaScript and Node.js. Limited backend experience.\n\nTechnologies:\n- JavaScript, Node.js\n- React frontend development\n- MongoDB NoSQL database\n- Docker basics\n- Git version control\n\nExperience:\nDeveloper at UIDesignCo (2020-Present)\n- Created React components for web applications\n- Worked with Node.js backend\n- Some Docker containerization\n\nFreelance Web Developer (2019-2020)\n- Built custom websites\n\nEducation:\nCoding Bootcamp Graduate (2019)",
+      "label": 1
+    },
+    {
+      "filename": "bad_candidate1.pdf",
+      "text": "Tom Brown | Web Developer\n\nSummary:\n2 years as web developer. Mostly HTML and CSS.\n\nSkills:\n- HTML, CSS, JavaScript\n- Basic jQuery\n\nWork:\nWeb Developer at SmallWebShop (2023-Present)\n- Created website layouts\n- Fixed CSS issues\n\nEducation:\nBootcamp Certificate (2023)",
+      "label": 0
+    },
+    {
+      "filename": "bad_candidate2.pdf",
+      "text": "Lisa Garcia | QA Tester\n\nBackground:\n3 years quality assurance. No development background.\n\nSkills:\n- Manual testing\n- Bug reporting\n- Excel, Jira\n\nPosition:\nQA Engineer at TestingCorp (2021-Present)\n- Run test cases\n- Document bugs\n\nEducation:\nHigh School Diploma",
+      "label": 0
+    }
+  ]
+}
